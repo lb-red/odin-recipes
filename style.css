@@ -1,0 +1,14 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(236, 200, 155);
+}
+
+h1 {
+  background-color: rgb(151, 87, 26);
+  color: white;
+}
+
+.recipe-list {
+  list-style: upper-alpha;
+  list-style-position: outside;
+}
