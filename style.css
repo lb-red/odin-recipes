@@ -14,6 +14,6 @@ h1 {
 }
 
 .recipe-list {
-  list-style: upper-alpha;
-  list-style-position: outside;
+  list-style-type:circle;
+  list-style-position: inside;
 }
